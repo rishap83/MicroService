@@ -1,0 +1,30 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "description": "building a simple app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishap83/MicroService.git"
+  },
+  "keywords": [
+    "ecom",
+    "tce",
+    "session"
+  ],
+  "author": "mani_rishap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishap83/MicroService/issues"
+  },
+  "homepage": "https://github.com/rishap83/MicroService#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
